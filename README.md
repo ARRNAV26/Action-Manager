@@ -6,6 +6,6 @@ I have designed an efficient RESTful API, seamlessly integrating Angular's dynam
 
 I have ensured optimal performance through rigorous testing and deployed the application flawlessly, enabling cross-browser accessibility.
 
-This uses basic CRUD(Create, Read, Update, Delete) operations to perform daily tasks and keep track of them in organized manner.
+This uses high-end CRUD(Create, Read, Update, Delete) operations to perform daily tasks and keep track of them in organized manner.
 
 I have successfully deployed the application, delivering a seamless and intuitive user experience on web browsers.
